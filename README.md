@@ -59,23 +59,23 @@ The dataset contains 2,098 retail sales transactions recorded between January an
 
 ### Key Insights
 
-#### Overall Business Performance
+##### Overall Business Performance
 
 The business generated 2.33 billion in total revenue, resulting in a total profit of 465.67 million after incurring 1.86 billion in Cost of Goods Sold (COGS). This represents an overall 20% profit margin, indicating that the company retains 20% of its revenue as profit after covering the direct costs of producing and selling its products. Overall, this reflects healthy profitability while highlighting opportunities for further cost optimization.
 
-#### Product Performance
+##### Product Performance
 
 Laptop A13 was the most profitable product, generating 105.34 million in profit, making it the company's strongest revenue contributor. Sofa Classic followed with 69.25 million, while Desktop PC generated 68.64 million, demonstrating that these products are consistently high-performing and should remain key business priorities. In contrast, Blender B10 recorded the lowest profit at 6.87 million, suggesting that its pricing, marketing strategy, or customer demand may need to be reviewed to improve performance.
 
-#### Sales Representative Performance
+##### Sales Representative Performance
 
 Peter was the highest-performing sales representative, generating 434.81 million in revenue, followed by Musa with 397.67 million. Grace recorded the lowest revenue at 367.84 million. The performance gap among sales representatives presents an opportunity to analyze the sales approaches of the top performers and share their best practices through coaching and training to improve overall team performance.
 
-#### City Performance (COGS)
+##### City Performance (COGS)
 
 Lagos recorded the highest Cost of Goods Sold (COGS) at 493.81 million, with Kano following closely at 486.79 million, while Abuja had the lowest COGS at 423.31 million. The higher COGS in Lagos and Kano may be driven by larger sales volumes, higher procurement costs, or increased logistics expenses. Further analysis can help determine whether these costs are justified by corresponding revenue or whether there are opportunities to improve operational efficiency.
 
-#### Customer Type Performance
+##### Customer Type Performance
 
 Both Corporate and Retail customers contributed similar levels of monthly profit, indicating that neither customer segment significantly outperformed the other. However, profits fluctuated throughout the year, with May recording the lowest monthly profit. This seasonal decline suggests that the business could benefit from targeted marketing campaigns, promotional activities, or customer engagement initiatives during slower periods to maintain more consistent profitability throughout the year.
 
