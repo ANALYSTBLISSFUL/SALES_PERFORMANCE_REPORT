@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project focuses on analyzing sales performance to provide management with actionable insights into revenue, profit, cost of goods sold (COGS), and profit margin. An interactive dashboard was developed to monitor key business metrics across products, sales representatives, cities, customer types, and sales channels. The dashboard enables users to filter data by region, category, channel, city, sales representative, and product, supporting informed business decisions and performance monitoring.
+This project analyzes retail sales data to evaluate business performance across products, sales representatives, customer segments, cities, and sales channels. Using Microsoft Excel, an interactive dashboard was developed to monitor key performance indicators (KPIs), uncover trends, and support data-driven decision-making.
 
 ### Business Problem
 The company lacks a centralized system for monitoring sales performance across different business dimensions. Decision-makers struggle to identify top-performing products, profitable sales representatives, high-cost locations, and customer profitability. Without these insights, it becomes difficult to optimize sales strategies, control costs, and improve overall profitability.
@@ -32,6 +32,10 @@ The dataset contains 2,098 retail sales transactions recorded between January an
 - Slicers
 - Dashboard Design
 
+### Dashboard Preview
+
+<img width="873" height="614" alt="Image" src="https://github.com/user-attachments/assets/4287b0b2-7124-4e40-9153-db05132d3fa7" />
+
 ### Key Performance Indicators (KPIs)
 
 - Revenue
@@ -55,56 +59,54 @@ The dataset contains 2,098 retail sales transactions recorded between January an
 
 ### Key Insights
 
-Overall Business Performance
-- Total Revenue: 2.33 Billion
-- Total Profit: 465.67 Million
-- Total COGS: 1.86 Billion
-- Overall Profit Margin: 20%
+#### Overall Business Performance
 
-Product Performance
-- Laptop A13 generated the highest profit (105.34M).
-- Sofa Classic D21 followed with 69.25M.
-- Desktop PC delivered 68.64M in profit.
-- Blender B10 recorded the lowest profit (6.87M).
+The business generated 2.33 billion in total revenue, resulting in a total profit of 465.67 million after incurring 1.86 billion in Cost of Goods Sold (COGS). This represents an overall 20% profit margin, indicating that the company retains 20% of its revenue as profit after covering the direct costs of producing and selling its products. Overall, this reflects healthy profitability while highlighting opportunities for further cost optimization.
 
-Sales Representative Performance
-- Peter generated the highest revenue (434.81M).
-- Musa ranked second (397.67M).
-- Grace recorded the lowest revenue (367.84M).
+#### Product Performance
 
-City Performance (COGS)
-- Lagos recorded the highest COGS (493.81M).
-- Kano followed closely (486.79M).
-- Abuja had the lowest COGS (423.31M).
+Laptop A13 was the most profitable product, generating 105.34 million in profit, making it the company's strongest revenue contributor. Sofa Classic followed with 69.25 million, while Desktop PC generated 68.64 million, demonstrating that these products are consistently high-performing and should remain key business priorities. In contrast, Blender B10 recorded the lowest profit at 6.87 million, suggesting that its pricing, marketing strategy, or customer demand may need to be reviewed to improve performance.
 
-Customer Type Performance
-- Corporate and Retail customers generated relatively similar monthly profits.
- Profit levels fluctuate from month to month, with May recording the lowest monthly profit.
+#### Sales Representative Performance
+
+Peter was the highest-performing sales representative, generating 434.81 million in revenue, followed by Musa with 397.67 million. Grace recorded the lowest revenue at 367.84 million. The performance gap among sales representatives presents an opportunity to analyze the sales approaches of the top performers and share their best practices through coaching and training to improve overall team performance.
+
+#### City Performance (COGS)
+
+Lagos recorded the highest Cost of Goods Sold (COGS) at 493.81 million, with Kano following closely at 486.79 million, while Abuja had the lowest COGS at 423.31 million. The higher COGS in Lagos and Kano may be driven by larger sales volumes, higher procurement costs, or increased logistics expenses. Further analysis can help determine whether these costs are justified by corresponding revenue or whether there are opportunities to improve operational efficiency.
+
+#### Customer Type Performance
+
+Both Corporate and Retail customers contributed similar levels of monthly profit, indicating that neither customer segment significantly outperformed the other. However, profits fluctuated throughout the year, with May recording the lowest monthly profit. This seasonal decline suggests that the business could benefit from targeted marketing campaigns, promotional activities, or customer engagement initiatives during slower periods to maintain more consistent profitability throughout the year.
 
 ### Recommendations
 Based on the dashboard analysis, the following recommendations were made:
 
-- Invest more in marketing and inventory for products such as Laptop A13, Desktop PC D21, and Sofa Classic, as they generate the highest profits.
-- Review products like Blender B10 and Microwave M20 to determine whether pricing, marketing, product quality, or customer demand is affecting profitability.
-- Study the strategies used by Peter and Musa and provide coaching or training to other sales representatives to improve overall sales performance.
-- Investigate why Lagos and Kano have the highest COGS and identify opportunities to optimize procurement, logistics, or inventory management.
-- Continue serving both Corporate and Retail customers while designing targeted promotions to increase customer retention and repeat purchases.
-- Although the current 20% profit margin is healthy, continuous cost optimization and sales growth initiatives can further improve profitability.
-- Management should regularly use the dashboard to monitor KPIs, identify emerging trends, and respond quickly to changes in sales performance.
-
-### Conclusion
-
-The Sales Performance Dashboard provides a comprehensive view of the company's sales operations by highlighting revenue, profit, costs, and performance across products, locations, customers, and sales representatives. The insights generated enable management to make data-driven decisions, improve operational efficiency, increase profitability, and focus resources on the areas that deliver the greatest business value.
+- Since Laptop A13, Desktop PC D21, and Sofa Classic generate the highest profits, increasing marketing efforts and maintaining adequate inventory for these products can maximize revenue, reduce stockout risks, and capitalize on strong customer demand.
+  
+- The relatively low profitability of Blender B10 and Microwave M20suggests potential issues with pricing, customer demand, product positioning, marketing effectiveness, or production costs. A detailed product performance analysis should be conducted to determine whether these products should be improved, repositioned, or phased out.
+  
+- Since Peter and Musa consistently outperform their peers, management should analyze their sales techniques, customer engagement strategies, and account management practices. Sharing these best practices through coaching and training can help improve the performance of the entire sales team and reduce the performance gap.
+  
+- Although these cities recorded the highest COGS, further analysis is needed to determine whether the higher costs are driven by increased sales volumes, procurement expenses, logistics, or operational inefficiencies. Identifying the underlying causes will help management implement cost-reduction strategies without compromising service quality.
+  
+- As Corporate and Retail customers contribute similar levels of profit, both segments remain strategically important. Developing targeted promotions, loyalty programs, and personalized marketing campaigns can increase customer retention, encourage repeat purchases, and improve long-term customer value.
+  
+- While the current 20% profit margin indicates strong financial performance, the business can further enhance profitability by reducing operational costs, improving supply chain efficiency, optimizing pricing strategies, and increasing sales of high-margin products.
+  
+- Management should continuously monitor the business intelligence dashboard to track key performance indicators (KPIs), identify sales and profitability trends, and respond proactively to emerging challenges. Regular dashboard reviews will support timely, evidence-based decisions and improve overall business performance.
 
 ### Skills Demonstrated
 
 - Data Cleaning
-- Excel Dashboard Development
+- Data Transformation
+- Pivot Tables & Pivot Charts
+- Interactive Dashboard Design
 - Business Analysis
 - Data Visualization
 - KPI Reporting
 - Storytelling with Data
 
-### Dashboard Preview
+### Conclusion
 
-<img width="873" height="614" alt="Image" src="https://github.com/user-attachments/assets/4287b0b2-7124-4e40-9153-db05132d3fa7" />
+The Sales Performance Dashboard provides a comprehensive view of the company's sales operations by highlighting revenue, profit, costs, and performance across products, locations, customers, and sales representatives. The insights generated enable management to make data-driven decisions, improve operational efficiency, increase profitability, and focus resources on the areas that deliver the greatest business value.
