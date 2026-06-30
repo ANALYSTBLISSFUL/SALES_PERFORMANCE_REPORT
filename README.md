@@ -1,3 +1,3 @@
 # SALES_REPORT
 
-<img width="875" height="593" alt="Image" src="https://github.com/user-attachments/assets/55ab9599-cc83-4ecb-bc7b-d9391c85446d" />
+<img width="873" height="614" alt="Image" src="https://github.com/user-attachments/assets/4287b0b2-7124-4e40-9153-db05132d3fa7" />
